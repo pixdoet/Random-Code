@@ -61,7 +61,7 @@ void loop() {
     seconds = 0;
   }
   
-  // print the time
+  // print the timesss
   Serial.println("Secs: "); Serial.println(seconds);
   Serial.println("Mins: "); Serial.println(minutes);
   Serial.println("Hours: "); Serial.println(hours);
