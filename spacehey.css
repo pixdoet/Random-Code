@@ -1,0 +1,16 @@
+.top{
+  background-color:#FF00E3;
+  float:left;
+}
+.top.right{
+  float:left;
+}
+.top.left{
+  float:right;
+}
+h2 h3 h4 h1 p{
+  color: #00FF00;
+}
+textarea{
+  background-color: #00FFFF;
+}
