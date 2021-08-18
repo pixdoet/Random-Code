@@ -14,3 +14,7 @@ h2 h3 h4 h1 p{
 textarea{
   background-color: #00FFFF;
 }
+body{
+  background-image: url('https://enterwebs.neocities.org/images/space.gif');
+  background-color: navy-blue;
+}
